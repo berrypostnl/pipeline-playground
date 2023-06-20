@@ -1,0 +1,7 @@
+.vscode
+.venv
+scripts
+.flake8
+.editorconfig
+mypy.ini
+pyproject.toml
